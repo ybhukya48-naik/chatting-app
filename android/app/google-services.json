@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "108338464746",
+    "project_id": "couplechat-a92d5",
+    "storage_bucket": "couplechat-a92d5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:108338464746:android:3cee5131b3ff78bcfd1493",
+        "android_client_info": {
+          "package_name": "com.couple.couple_chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBglw31-oxroAi_vsAAkuWlitGRgthVQrM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
