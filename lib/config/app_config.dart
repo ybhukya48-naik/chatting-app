@@ -11,5 +11,5 @@ class AppConfig {
   static const String localAndroidDeviceUrl = 'http://192.168.7.4:3000';
   
   // Flag to toggle between local and production
-  static const bool isProduction = false;
+  static const bool isProduction = true;
 }
